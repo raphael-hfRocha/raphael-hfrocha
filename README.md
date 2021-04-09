@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img scr="https://www.jfsp.jus.br/documentos/subsecoes/aracatuba/construcao.gif" alt="Perfil em construção">
