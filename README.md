@@ -1,5 +1,9 @@
 ### Seja bem-vindo(a)! No momento este perfil está em construção 👷
 
+
+![programação](https://user-images.githubusercontent.com/76854919/170854582-2db05a28-671a-469b-9fea-e321e8ddf597.png)
+
+
 <!--
 **Raphael-Henrique/Raphael-Henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
