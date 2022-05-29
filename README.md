@@ -1,7 +1,5 @@
 ### Seja bem-vindo(a)! No momento este perfil está em construção 👷
 
-   ![personagem](https://user-images.githubusercontent.com/76854919/170854836-4ff07eea-4c46-4175-aefa-64b7c4a5816f.png)
-
 <!--
 **Raphael-Henrique/Raphael-Henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
