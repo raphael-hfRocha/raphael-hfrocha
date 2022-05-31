@@ -1,3 +1,6 @@
+
+<h1 align="center">Hello friend <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Raphael and welcome to my github profile</h1>
+
 <div align="center">
   <a href="https://github.com/Raphael-Henrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raphael-Henrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
