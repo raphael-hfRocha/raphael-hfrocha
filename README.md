@@ -2,7 +2,7 @@
 <h1 align="center">Hello friend <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Raphael and welcome to my github profile</h1>
 
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/76854919/171263508-f02899eb-4c4e-4615-a778-97002c1548d0.png" width="300px">
+   <img src="https://github.com/Raphael-Henrique/Raphael-Henrique/blob/main/Programmer.png" width="400px">
  </div>
 
 <div align="center">
