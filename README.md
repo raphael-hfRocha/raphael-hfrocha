@@ -2,7 +2,7 @@
 <h3 align="center">My name is Raphael and welcome to my github profile!</h3>
 
 <div align="center">
-   <img src="https://github.com/Raphael-Henrique/Raphael-Henrique/blob/main/Programmer.png" width="500px">
+   <img src="https://github.com/Raphael-Henrique/Raphael-Henrique/blob/main/Programmer.png" width="450px">
  </div>
 
 <div align="center">
