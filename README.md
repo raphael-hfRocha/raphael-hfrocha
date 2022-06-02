@@ -1,4 +1,4 @@
-<h1 align="center">Hello friend <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hello friend <img src="https://user-images.githubusercontent.com/76854919/171754065-b325f99f-8811-4e52-bd2b-f43289a07e30.gif" width="40"></h1>
 <h3 align="center">My name is Raphael and welcome to my github profile!</h3>
 
 <div align="center">
