@@ -1,4 +1,11 @@
-<h1 align="center">Hello friend <img src="https://user-images.githubusercontent.com/76854919/171754065-b325f99f-8811-4e52-bd2b-f43289a07e30.gif" width="40"></h1>
+<!--
+<div style="display: flex; justify-content: space-around; flex-direction: row;">
+   <img src="https://user-images.githubusercontent.com/76854919/171754065-b325f99f-8811-4e52-bd2b-f43289a07e30.gif" width="40">
+</div>
+-->
+   <h1 align="center">Hello friend</h1>
+
+
 <h3 align="center">My name is Raphael and welcome to my github profile!</h3>
 
 <div align="center">
