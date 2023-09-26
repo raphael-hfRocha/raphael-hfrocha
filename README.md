@@ -31,6 +31,9 @@
    <a href="https://www.npmjs.com/" >
        <img align="center" alt="npm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     </a>
+    <a href="https://yarnpkg.com/">
+        <img align="center" alt="yarn" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
+    </a>
     <a href="https://www.python.org/" >
         <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </a>
