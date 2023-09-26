@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README Github profile</title>
-</head>
-<body>
-       
-<h1 align="center">Hello friend</h1>
+       <h1 align="center">Hello friend</h1>
 
 
 <h3 align="center">My name is Raphael and welcome to my github profile!</h3>
@@ -76,6 +67,3 @@
   <a href = "mailto:raphaelrochaacft@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raphael-rocha-3b70bb196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-</body>
-</html>
