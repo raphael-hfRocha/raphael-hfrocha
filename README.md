@@ -26,17 +26,29 @@
    <a  href="https://pt-br.legacy.reactjs.org/" >    
      <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    </a>
-   <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <a  href="https://www.npmjs.com/">
+   <a href="https://nodejs.org/en">
+       <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    </a>
+   <a href="https://www.npmjs.com/">
        <img align="center" alt="npm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     </a>
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <a href="https://www.python.org/">
+        <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </a>
+  <a href="https://www.mysql.com/">
+      <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    </a>
   <img align="center" alt="SQLServer" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  <img align="center" alt="SQLite" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+  <a href="https://www.sqlite.org/index.html">
+      <img align="center" alt="SQLite" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+    </a>
   <img align="center" alt="Oracle" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img align="center" alt="PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />         
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <a href="https://www.php.net/">
+      <img align="center" alt="PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />         
+    </a>
+    <a href="https://www.java.com/pt-BR/">
+        <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    </a>
   <a href="https://spring.io/">
       <img align="center" alt="Spring Framework" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />          
     </a>
