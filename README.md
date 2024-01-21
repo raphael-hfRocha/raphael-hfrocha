@@ -47,7 +47,6 @@
   <a href="https://www.sqlite.org/index.html" >
       <img align="center" alt="SQLite" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
     </a>
-  <img align="center" alt="Oracle" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <a href="https://www.php.net/" >
       <img align="center" alt="PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />         
     </a>
