@@ -1,4 +1,4 @@
-<h1 align="center">Hello friend</h1>
+<h1 align="center">Hello friend <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">My name is Raphael and welcome to my github profile!</h3>
 <div align="center">
    <img src="https://github.com/raphael-hfrocha/raphael-hfrocha/blob/main/Programmer.png" width="450px">
