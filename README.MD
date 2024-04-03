@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <link rel="stylesheet" href="style.css">
-    <title>Typing Animation</title>
-  </head>
-   <body>
     <div class="background-card">
       <div class="container">
         <p class="title">Hello, World!</p>
@@ -97,6 +90,5 @@
   <a href = "mailto:raphaelrochaacft@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raphael-rocha-3b70bb196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  </body>
 
 
