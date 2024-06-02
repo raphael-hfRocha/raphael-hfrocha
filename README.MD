@@ -21,7 +21,8 @@
       <img align="center" alt="Vue.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
     </a> 
     <a href="https://nuxt.com/" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />
+        <svg viewBox="0 0 128 128">
+</svg>
     </a>     
     <a href="https://dotnet.microsoft.com/pt-br/" >
         <img align="center" alt=".NET Core" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
