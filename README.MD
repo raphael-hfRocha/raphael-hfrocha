@@ -1,16 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1 align="center">Hello friend <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<h1 align="center">Hello friend <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">My name is Raphael and welcome to my github profile!</h3>
 <div align="center">
-   <img src="https://github.com/raphael-hfrocha/raphael-hfrocha/blob/main/Programmer.png" width="450px">
- </div>
+    <img src="https://github.com/raphael-hfrocha/raphael-hfrocha/blob/main/Programmer.png" width="450px">
+</div>
 
 <div align="center">
   <a href="https://github.com/raphael-hfrocha">
@@ -28,7 +21,7 @@
       <img align="center" alt="Vue.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
     </a> 
     <a href="https://nuxt.com/" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg">
+        <img align="center" alt="Nuxt.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg">
     </a>     
     <a href="https://dotnet.microsoft.com/pt-br/" >
         <img align="center" alt=".NET Core" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
