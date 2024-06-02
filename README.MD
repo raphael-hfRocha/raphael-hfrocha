@@ -81,7 +81,7 @@
    <a href="https://git-scm.com/" >
        <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
    </a>
-   <img align="center" alt="Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+   <img align="center" alt="Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/devicon-github-original.svg">
 </div>
 <br>
 <h2>Contacts/social networks:</h2>
