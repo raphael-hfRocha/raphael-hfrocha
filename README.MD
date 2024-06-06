@@ -15,17 +15,23 @@
 
 <div style="display: inline_block">
     <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <a href="https://expressjs.com/pt-br/" >
-      <img align="center" alt="Express.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-    </a>
-    <a href="https://v2.vuejs.org/" >
-      <img align="center" alt="Vue.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-    </a> 
-    <a href="https://nuxt.com/" >
-        <img align="center" alt="Nuxt.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg">
-    </a>     
+  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <a href="https://www.typescriptlang.org/">
+    <img align="center" alt="Typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  </a>
+  <a href="https://expressjs.com/pt-br/" >
+    <img align="center" alt="Express.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  </a> 
+  <a href="https://www.json.org/json-en.html">
+    <img align="center" alt="Json" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+  </a>     
+  <a href="https://v2.vuejs.org/" >
+    <img align="center" alt="Vue.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  </a> 
+  <a href="https://nuxt.com/" >
+    <img align="center" alt="Nuxt.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg">
+  </a>
     <a href="https://dotnet.microsoft.com/pt-br/" >
         <img align="center" alt=".NET Core" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
     </a>
@@ -55,7 +61,7 @@
       <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     </a>
    <a href="https://learn.microsoft.com/pt-BR/training/modules/introduction-to-sql-server-2022/">
-     <img align="center" alt="SQLServer" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+     <img align="center" alt="SQLServer" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
    </a>
   <a href="https://www.sqlite.org/index.html" >
       <img align="center" alt="SQLite" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
@@ -70,7 +76,7 @@
       <img align="center" alt="Spring Framework" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">          
     </a>
     <a href="https://www.arduino.cc/" >
-        <img align="center" alt="Arduino" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+        <img align="center" alt="Arduino" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
     </a>
    <a href="https://getbootstrap.com/" >
        <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
@@ -81,10 +87,10 @@
    <a href="https://www.figma.com/">
       <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">     
    </a>
-   <a href="https://git-scm.com/" >
-       <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-   </a>
-    <img align="center" alt="Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<a href="https://git-scm.com/" >
+    <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</a>
+<img align="center" alt="Github" height="40" width="50" src="https://img.icons8.com/?size=256&id=106567&format=png">
 </div>
 <br>
 <h2>Contacts/social networks:</h2>
