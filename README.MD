@@ -45,6 +45,9 @@
    <a href="https://nodejs.org/en" >
        <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     </a>
+   <a href="https://vitejs.dev/" >
+      <img align="center" alt="npm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+   </a>     
    <a href="https://www.npmjs.com/" >
        <img align="center" alt="npm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
     </a>
