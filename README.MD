@@ -29,6 +29,9 @@
   <a href="https://v2.vuejs.org/" >
     <img align="center" alt="Vue.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   </a> 
+  <a href="https://laravel.com/" >
+    <img align="center" alt="Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  </a> 
   <a href="https://nuxt.com/" >
     <img align="center" alt="Nuxt.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg">
   </a>
