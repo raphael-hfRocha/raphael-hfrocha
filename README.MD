@@ -78,8 +78,17 @@
     <a href="https://www.java.com/pt-BR/" >
         <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     </a>
-  <a href="https://spring.io/" >
-      <img align="center" alt="Spring Framework" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">          
+    <a href="https://quarkus.io/">
+        <img align="center" alt="Quarkus" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original-wordmark.svg">
+    </a>
+    <a href="https://spring.io/">
+       <img align="center" alt="Spring Framework" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">          
+    </a>
+    <a href="https://developer.android.com/studio?hl=pt-br">
+       <img align="center" alt="Android Studio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-    wordmark.svg">          
+    </a>
+    <a href="https://kotlinlang.org/" >
+       <img align="center" alt="kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">          
     </a>
     <a href="https://www.arduino.cc/" >
         <img align="center" alt="Arduino" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
