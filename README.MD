@@ -85,7 +85,7 @@
        <img align="center" alt="Spring Framework" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">          
     </a>
     <a href="https://developer.android.com/studio?hl=pt-br">
-        <img align="center" alt="Android Studio" height="120" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" />       
+        <img align="center" alt="Android Studio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />  
     </a>
     <a href="https://kotlinlang.org/" >
        <img align="center" alt="kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">          
