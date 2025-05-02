@@ -79,7 +79,7 @@
         <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     </a>
     <a href="https://quarkus.io/">
-        <img align="center" alt="Quarkus" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original-wordmark.svg">
+        <img align="center" alt="Quarkus" height="120" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original-wordmark.svg">
     </a>
     <a href="https://spring.io/">
        <img align="center" alt="Spring Framework" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">          
