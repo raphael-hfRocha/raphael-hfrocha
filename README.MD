@@ -30,7 +30,7 @@
     <img align="center" alt="Vue.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   </a> 
   <a href="https://firebase.google.com/?hl=pt-br">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"/ align="center" alt="Google Firebase" height="40" width="50" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"/ align="center" alt="Google Firebase" height="50" width="60" >
   </a>    
   <a href="https://laravel.com/" >
     <img align="center" alt="Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
