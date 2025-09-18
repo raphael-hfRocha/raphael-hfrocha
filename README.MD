@@ -75,6 +75,9 @@
   <a href="https://www.sqlite.org/index.html" >
       <img align="center" alt="SQLite" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
     </a>
+  <a href="https://azure.microsoft.com/pt-br/?msockid=257a5995188a63ae0c9d4ffc19676210" >
+    <img  align="center" alt="Azure" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
+  </a>
   <a href="https://www.php.net/" >
       <img align="center" alt="PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">         
     </a>
